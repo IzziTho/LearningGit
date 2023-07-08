@@ -16,4 +16,3 @@ The change will now be in your history on Github
 1. Pull the main branch, make sure it's the most up to date `git pull`
 2. To check which branch you're on: `git branch`
 3. to create a new branch (check the standard naming process for your company): `git checkout -b {branch name}`
-4. 
