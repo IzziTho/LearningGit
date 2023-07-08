@@ -23,7 +23,11 @@ The change will now be in your history on Github
 1. Pull the main branch, make sure it's the most up to date `git pull`
 2. To check which branch you're on: `git branch`
 3. to create a new branch (check the standard naming process for your company): `git checkout -b {branch name}`
+<<<<<<< HEAD
 4. Make your changes, commit and push. Then make some more changes and don't push.
+=======
+4. Make your changes, commit and push. iodoifnssbd fisfh fjsd f
+>>>>>>> main
 5. Create a pull request(PR) on GitHub, assign a reviewer.
 6. Reviewer will review the PR and make comments. 
 7. Resolve comments and re-commit and push.
